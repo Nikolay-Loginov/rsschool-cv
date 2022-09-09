@@ -14,7 +14,8 @@
 [Это ссылка на Хекслет](https://hexlet.io)
 > Это мудрая цитата
 > Мудрого человека.
-![Это опциональный alt-текст](/assets/images/markdown/markdown.png)
+
+!(/assets/images/markdown/markdown.png)
 ``````
 1. Пункт
 1. Еще один пункт
