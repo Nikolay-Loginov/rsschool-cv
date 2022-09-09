@@ -15,7 +15,7 @@
 > Это мудрая цитата
 > Мудрого человека.
 
-!(/assets/images/markdown/markdown.png)
+[Это опциональный alt-текст](/assets/images/markdown/markdown.png)
 ``````
 1. Пункт
 1. Еще один пункт
